@@ -1,0 +1,106 @@
+body{
+    width: 600px;
+    height: 100px;
+    background: linear-gradient(to left, rgb(169, 169, 240) 60%,  #dbc3be 40%);
+}
+
+.tsel {
+    font-size: 120px;
+    color: rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: auto;
+    width: 250px;
+    padding: 100px;
+    position: relative;
+    bottom: -50px;
+}
+
+.carrer {
+    position: relative;
+    left: 800px;
+    top: -450px;
+    width: 100%;
+    font-size: 50px;
+    border-radius: 60px;
+    background-color: black;
+    color: aliceblue;
+}
+
+.lessons {
+    position: relative;
+    left: 800px;
+    top: -390px;
+    width: 100%;
+    font-size: 50px;
+    border-radius: 60px;
+    background-color:#332389;
+    color: aliceblue;
+}
+
+.exams {
+    position: relative;
+    left: 800px;
+    top: -330px;
+    width: 100%;
+    font-size: 50px;
+    border-radius: 60px;
+    background-color: #2C1CD2;
+    color: aliceblue;
+}
+
+.trips {
+    position: relative;
+    left: 800px;
+    top: -270px;
+    width: 100%;
+    font-size: 50px;
+    border-radius: 60px;
+    background-color: #5271FF;
+    color: aliceblue;
+}
+
+.dalshe2 {
+    position: relative;
+    left: 920px;
+    top: -170px;
+    width: 100%;
+    font-size: 45px;
+    border-radius: 2px;
+    background-color: #050505;
+    color: aliceblue;
+}
+
+
+.propysk2 {
+    position: relative;
+    right: -700px;
+    bottom: 950px;
+    width: 100%;
+    font-size: 30px;
+    color: aliceblue;
+
+}
+
+.nachalo2  {
+    position: relative;
+    left: 50px;
+    bottom: 1000px;
+    width: 250px;
+    height: 45px;
+    color: #000000;
+}
+
+.emblema1 {
+    color: rgb(230, 3, 3);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    font-size: 30px;
+    top: -300px ;
+    width: 300x;
+    height: 50px;
+}
+
+
+a{
+    color: aliceblue;
+}
